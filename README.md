@@ -9,7 +9,7 @@
  Os principais campos são nome, cpf, telefone e e-mail.
  
 <h2> ◾ Como essas entidades estão relacionadas? </h2>
-  Por meio das relações "um-para-muitos" e "muitos-para-muitos".
+  Por meio das chaves-primárias, relações "um-para-muitos" e "muitos-para-muitos".
   
 
 # Este é o esquema proposto para tal organização:
